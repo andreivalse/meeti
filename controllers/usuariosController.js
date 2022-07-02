@@ -3,3 +3,7 @@ exports.formCrearCuenta = (req, res) => {
         nombrePagina : 'Crea tu Cuenta'
     })
 };
+
+exports.crearNuevaCuenta = async (req, res) => {
+    const usuario = re
+}
